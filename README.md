@@ -10,4 +10,5 @@ This is an example of using webpack in Drupal theme. This template is for compil
 4. run `npm run build --mode=development` and the compiled files will be in this `dist` folder.
 
 ### Notes
-A similar but different webpack starter kit is available here: https://github.com/hussainweb/drupal-bootstrap-webpack which helped in creating this one as well.
+- A similar but different webpack starter kit is available here: https://github.com/hussainweb/drupal-bootstrap-webpack which helped in creating this one as well.
+- [Tiny timer](https://www.npmjs.com/package/tiny-timer) is added as an example and is not required for this

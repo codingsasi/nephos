@@ -3,7 +3,7 @@ const globImporter = require('node-sass-glob-importer');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
-  entry: './js/nephos.ts',
+  entry: './ts/nephos.ts',
   module: {
     rules: [
       {
