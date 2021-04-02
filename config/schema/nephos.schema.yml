@@ -1,0 +1,8 @@
+# Schema for the configuration files of the Nephos theme.
+nephos.settings:
+  type: theme_settings
+  label: 'Nephos settings'
+  mapping:
+    font_size:
+      type: integer
+      label: Font size

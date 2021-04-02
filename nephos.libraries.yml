@@ -1,0 +1,7 @@
+# Main theme library.
+global:
+  js:
+    dist/main.js: {}
+  css:
+    base:
+      dist/nephos.css: {}
