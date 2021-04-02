@@ -8,3 +8,6 @@ This is an example of using webpack in Drupal theme. This template is for compil
 2. Run `npm install`.
 3. Start working on your theme. The SCSS files are in the `scss` folder and TypeScript files are in the `js` folder. You can write code in JS as well, just remember to import it in nephos.ts file because that's the "entry".
 4. run `npm run build --mode=development` and the compiled files will be in this `dist` folder.
+
+### Notes
+A similar but different webpack starter kit is available here: https://github.com/hussainweb/drupal-bootstrap-webpack which helped in creating this one as well.
