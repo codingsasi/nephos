@@ -1,6 +1,6 @@
 # Drupal Webpack
 
-This is an example of using webpack in Drupal theme. This template is for compiling SCSS to CSS and transpiling typescript to JavaScript.
+This is an example of using webpack in Drupal theme. This template is for transpiling SCSS to CSS and transpiling typescript to JavaScript.
 
 ## Usage
 
